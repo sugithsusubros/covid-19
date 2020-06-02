@@ -1,5 +1,5 @@
 # covid-19
-covid-19 worldwide
+covid-19 worldwide effects.
 
 This is a live repo ,and the dataset is being updated everyday.
 
